@@ -1,4 +1,4 @@
-# 💻Trabalho sobre MetaVerso
+# 💻Trabalho sobre [MetaVerso](https://www.infomoney.com.br/guias/metaverso/)
 
 ## 🚩Temas:
 * Realidade Aumentada 
