@@ -45,9 +45,11 @@ body {
 
 .nav {
     display: flex;
+    position: fixed;
+    width: 67%;
     justify-content: space-between;
     align-items: center;
-    background-color: rgba(0, 0, 0, 0.534);
+    background-color: rgba(0, 0, 0, 0.616);
     border-radius: 40px;
     margin: 3.125rem 14rem 0;
     padding: 1rem .25rem;
@@ -85,28 +87,12 @@ figure img:hover {
     transition: 0.4s;
 }
 
-.buttoninicio {
-    display: flex;
-    padding: 3rem;
-    position: fixed;
-    justify-content: end;
-}
-
-.buttoninicio .inicio {
-    color: white;
-    background-color: rgba(0, 0, 0, 0.534);
-    text-align: center;
-    justify-content: center;
-    height: 2.5rem;
-    width: 8rem;
-}
-
 .section-div {
     background: linear-gradient(90deg, rgb(32, 27, 129) 0%, rgb(70, 18, 64) 100%);
     display: grid;
     align-items: center;
     justify-content: space-around;
-    padding: 7.5rem 14.375rem 14.375rem;
+    padding: 14rem 14.375rem 14.375rem;
     gap: 5rem;
     grid-template-columns: 1fr 1fr;
 
